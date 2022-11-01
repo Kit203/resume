@@ -2,7 +2,7 @@ This is a Git for my resume website; which is part 1 of my self-taught coding se
 This git will be connected with a resume where my host of skill sets will be put out for display. 
 This website will feature the following: Sewing, Code [languages I dabble in], 3D Modelling [tutorials I dabbled with], Maps [GIS/QGIS], or AgiSoft models. 
 This website will also showcase my past work history and education history. 
-This website will also translate it to any relevant languages which I am semi-profient in. [French/Spanish]
+This website will also translate it to any relevant languages which I am semi-profient in. [French/Spanish/(Japanese/Italian)]
 
 
 Citations: 
