@@ -6,10 +6,30 @@ This website will also showcase my past work history and education history.
 This website will also translate it to any relevant languages which I am semi-profient in. [French/Spanish/(Japanese/Italian)]
 Yes, I know I'm awesome. Thanks for noticing. 
 
-# Possible-Future-Additions 
-Other forms of code, languages, or whatever I would like to display here. I would like to make it easier for me to display my projects and to remove them as needed. I would also like to "lock" the images or videos to my website so they cannot be transfered.  
+# Languages Used
+HTML., C.S.S.
 
-# Citations 
+# Frameworks, Libraries, and Programs Used
+None yet. 
+
+# Features
+Responsive on:
+Interactive Elements: 
+
+# Further Additions
+Other forms of code, languages, or whatever I would like to display here. I would like to make it easier for me to display my projects and to remove them as needed. I would also like to "lock" the images or videos to my website so they cannot be transfered.
+# Further Testing
+
+# Bugs
+No known bugs.
+
+# Deployment
+Not deployed. 
+
+# Local Deployment
+Not deployed
+
+# Citations/Credits
 https://youtu.be/Wv0_zNIozgw -> To make the bear bones of the website. 
 https://www.w3schools.com/html/html_css.asp -> To make the bear bones of the website.
 https://youtu.be/1wfeqDyMUx4 -> To apply a cool scrolling feature to my main website page.
