@@ -49,11 +49,12 @@ h4 {
 }
 
 p{
-    font-size: 200%;
+    font-size: 100%;
     font-family: 'Courier', 'Arial Narrow', Arial, sans-serif;
     font-weight: 100;
     font-style: normal;
-    color: #fff;
+    color: rgb(13, 29, 73);
+    text-align:left;
 }
 
 address {
