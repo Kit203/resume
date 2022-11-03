@@ -57,6 +57,14 @@ p{
     text-align:left;
 }
 
+q {
+    font-size:120%; 
+    font-family:'courier', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    color:rgb(0, 37, 116); 
+    text-align:center;
+}
 address {
     position: relative;
     width: 100%;
