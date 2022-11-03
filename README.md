@@ -10,7 +10,11 @@ Yes, I know I'm awesome. Thanks for noticing.
 HTML., C.S.S.
 
 # Frameworks, Libraries, and Programs Used
-https://fontawesome.com/: used to add icons to make the pages look astheticly pleasing
+[Font Awesome](https://fontawesome.com/): used to add icons to make the pages look astheticly pleasing
+[Am I Responsive?](https://ui.dev/amiresponsive): Used to test responsiveness on other devices.
+[Github](https://github.com/): Used to store project code.
+[VS Code](https://code.visualstudio.com/): Used to run the code, commit, and push the code. 
+[Code Swing](https://marketplace.visualstudio.com/items?itemName=codespaces-Contrib.codeswing): Used to display running code.
 
 # Features
 Responsive on:
