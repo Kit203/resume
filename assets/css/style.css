@@ -13,7 +13,7 @@ ul{
 }
 
 h1 {
-    font-size: 0%;
+    font-size: 200%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 100;
     font-style: normal;
@@ -21,27 +21,44 @@ h1 {
 }
 
 h2 {
-    font-size: 0%;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 250%;
+    font-family: 'Courier', 'Arial Narrow', Arial, sans-serif;
     font-weight: 100;
     font-style: normal;
-    color: #fff;
+    color: rgb(0, 37, 116);
+    text-align: left;
 }
 
 h3 {
-    font-size: 0%;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 250%;
+    font-family: 'Courier', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    color: rgb(0, 37, 116);
+}
+
+h4 {
+    font-size: 250%;
+    font-family: 'Courier', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 1000;
+    font-style: normal;
+    color: rgb(0, 37, 116);
+}
+
+p{
+    font-size: 200%;
+    font-family: 'Courier', 'Arial Narrow', Arial, sans-serif;
     font-weight: 100;
     font-style: normal;
     color: #fff;
 }
 
-p{
-    font-size: 0%;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: 100;
-    font-style: normal;
-    color: #fff;
+address {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    font-size: smaller;
+    font-display: italics;
 }
 
 .header{
