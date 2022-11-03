@@ -20,7 +20,15 @@ h1 {
     color: #fff;
 }
 
-h2 h3 h4 h5 h6 {
+h2 {
+    font-size: 0%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    color: #fff;
+}
+
+h3 {
     font-size: 0%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 100;
