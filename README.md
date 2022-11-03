@@ -10,7 +10,7 @@ Yes, I know I'm awesome. Thanks for noticing.
 HTML., C.S.S.
 
 # Frameworks, Libraries, and Programs Used
-None yet. 
+https://fontawesome.com/: used to add icons to make the pages look astheticly pleasing
 
 # Features
 Responsive on:
