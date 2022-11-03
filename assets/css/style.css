@@ -33,4 +33,22 @@ ul{
 .header .navbar .logo a{
 color: #fff;
 font-size: 30px;
+margin-left: 50px;
+}
+
+.header .navbar .menu ul{
+    margin-left: 192px;
+
+}
+.header .navbar .menu ul li{
+display: inline-block;
+margin-right: 35px;
+align-items: center;
+}
+
+.header .navbar .menu ul li a{
+    color: #fff;
+    font-size: 17px;
+    font-weight: 500;
+    letter-spacing: 1px;
 }
