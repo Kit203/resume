@@ -13,15 +13,16 @@ ul{
 }
 
 h1 {
-    font-size: 200%;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 300%;
+    font-family: 'verdana', 'Arial Narrow', Arial, sans-serif;
     font-weight: 100;
     font-style: normal;
-    color: #fff;
+    color: rgb(13, 29, 73);
+    text-align: center;
 }
 
 h2 {
-    font-size: 250%;
+    font-size: 200%;
     font-family: 'Courier', 'Arial Narrow', Arial, sans-serif;
     font-weight: 100;
     font-style: normal;
@@ -35,6 +36,7 @@ h3 {
     font-weight: 100;
     font-style: normal;
     color: rgb(0, 37, 116);
+    text-align: left;
 }
 
 h4 {
@@ -43,6 +45,7 @@ h4 {
     font-weight: 1000;
     font-style: normal;
     color: rgb(0, 37, 116);
+    text-align: center;
 }
 
 p{
@@ -68,6 +71,9 @@ address {
     background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
     background-size: cover;
     background-repeat: no-repeat;
+    border:10px solid rgba(30, 83, 255, 0.173); 
+    padding-inline-start:5%; 
+    padding-inline-end:5%;
 }
 
 .header .navbar{
