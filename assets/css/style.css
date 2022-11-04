@@ -10,6 +10,8 @@ a,a:hover{
 
 ul{
     list-style: none;
+    padding-inline-start: 1cm;
+    padding-inline-end: 1cm;
 }
 
 h1 {
@@ -80,7 +82,7 @@ address {
     background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
     background-size: cover;
     background-repeat: no-repeat;
-    border:10px solid rgba(30, 83, 255, 0.173); 
+    border:10px solid rgba(30, 229, 255, 0.759); 
     padding-inline-start:5%; 
     padding-inline-end:5%;
 }
