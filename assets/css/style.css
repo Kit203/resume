@@ -137,3 +137,8 @@ align-items: center;
     color:cyan;
 }
 
+.header .contact-info ul li a:sep{
+    margin: 0.28px;
+    opacity: 0.3;
+}
+
