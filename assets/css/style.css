@@ -200,3 +200,10 @@ align-items: center;
     cursor: pointer;
     transition: boarder-color 0.3 ease-out;
 }
+
+.header .banner .app-text .btn-group .play-btn:hover .play-btn-inner i,
+.header .banner .app-text .btn-group .play-btn:hover span{
+    color: #fff;
+    border-color: #fff;
+    transition: 0.5s;
+}
