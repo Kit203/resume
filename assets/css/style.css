@@ -123,3 +123,17 @@ align-items: center;
     margin-left: 41px; 
 }
 
+.header .contact-info ul li{
+    display: inline-block;
+}
+
+.header .contact-info ul li a{
+    color: #fff;
+    font-size: 15px;
+    transition: all 0.3s;
+}
+
+.header .contact-info ul li a:hover{
+    color:cyan;
+}
+
